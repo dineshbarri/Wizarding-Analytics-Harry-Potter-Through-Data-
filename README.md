@@ -39,12 +39,8 @@ Each dashboard panel is designed for clarity, narrative progression, and visual 
 
 ## 📦 Data Sources & Processing
 
-**Primary Datasets used:**
 
-- *Book metadata*: Sales, awards, page counts, release years (merged from Kaggle sources) :contentReference[oaicite:4]{index=4}  
-- *Full texts of all 7 books* (in `.txt`) for word-level analytics :contentReference[oaicite:5]{index=5}  
-- *Character dataset* listing character appearances across books :contentReference[oaicite:6]{index=6}  
-- *Pottermore / fandom metadata* (optional enrichments) :contentReference[oaicite:7]{index=7}  
+
 
 **Processing steps (pre-Tableau):**
 
@@ -55,19 +51,8 @@ Each dashboard panel is designed for clarity, narrative progression, and visual 
 
 ---
 
-## 🖼️ Screenshots & GIF Preview
 
-Here are visuals of the dashboard in action:
 
-| Screen | Description |
-|---|---|
-| ![Dashboard gif](images/preview.gif) | Full interactive dashboard in motion |
-| ![Book metrics screenshot](images/book_metrics.png) | Book comparison: sales, pages, awards |
-| ![Character trend screenshot](images/char_trend.png) | Character mention trends across books |
-
-(*Note: more images in the `images/` folder.*)
-
----
 
 ## 🚀 How to Explore
 
