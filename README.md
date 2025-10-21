@@ -22,6 +22,23 @@ From comparing book popularity and awards to mapping character appearances and s
 
 ---
 
+*** Project Structure
+
+```
+HarryPotter-Data-Analytics/
+  |
+  ├── README.me   
+  │   ├── harry_potter_data_data.csv
+  │   
+  ├── tableau/
+  │   └── WizardingAnalytics.twbx   (your packaged workbook)
+  ├── images/
+  │   └── preview.gif / dashboard_screens.png
+  └── LICENSE
+```
+
+---
+
 ## 🧱 Key Themes & Dashboards
 
 Here’s what you’ll find in the Tableau workbook:
@@ -36,23 +53,10 @@ Here’s what you’ll find in the Tableau workbook:
 Each dashboard panel is designed for clarity, narrative progression, and visual cohesion — dark theme with rich colors to match the magical theme.
 
 ---
+## 📦 Data 
 
-## 📦 Data Sources & Processing
-
-
-
-
-**Processing steps (pre-Tableau):**
-
-1. Clean metadata — unify column names, handle missing values.  
-2. Parse full text to compute metrics (word count, sentence count, frequency of character names).  
-3. Join character stats with metadata to support cross-filtering.  
-4. Export final CSVs (e.g. `book_metrics.csv`, `character_counts.csv`, `sentiment_by_book.csv`).
 
 ---
-
-
-
 
 ## 🚀 How to Explore
 
