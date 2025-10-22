@@ -91,8 +91,15 @@ These patterns reveal the tension between narrative, popularity, and reception i
 
 ## 🧑‍💻 About & License
 
-**Author:** Your Name / GitHub (e.g. Dinu)  
-**Contact:** [dineshbarri1997@gmail.com] / [https://www.linkedin.com/in/dinesh-barri/]  
+---
+## 👤 Author
+
+ #### &nbsp; Dinesh Barri
+
+-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dineshbarri)
+-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-barri-7654b010b)
+
+  
 
 **License:** MIT (or whatever open license you prefer)  
 
@@ -100,7 +107,4 @@ These patterns reveal the tension between narrative, popularity, and reception i
 
 > “Words are, in my not-so-humble opinion, our most inexhaustible source of magic.” — *Albus Dumbledore*
 
----
 
-Let me know when you have added your Tableau workbook and images, and I can generate a **preview GIF** from it or help you integrate it with GitHub Pages so your repo looks polished and clickable.
-::contentReference[oaicite:8]{index=8}
